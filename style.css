@@ -1,0 +1,30 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.box {
+	width: 290px;
+	margin: 35px;
+	padding: 25px 45px;
+	border-radius: 8px;
+	background-color: black;
+}
+
+input {
+	display: block;
+	margin-top: 5px;
+	padding: 8px;
+	font-size: 1.4em;
+	font-size: 500;
+	font-family: sans-serif;
+	border-radius: 8px;
+	outline: 0;
+}
+
+button {
+	margin: 15px 95px;
+	padding: 8px 25px;
+	border-radius: 5px;
+	outline: 0;
+}
